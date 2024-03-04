@@ -1,5 +1,5 @@
 
-## Girl's Camp Adventure
+# Girl's Camp Adventure
 
 Girl's Camp Adventure is a 3D survival game developed during the SheGam Hackathon. The game centers around a girl who, while on a camping trip with her friends, discovers she's a sleepwalker. Players must help her survive the wilderness and the creatures she encounters during her nocturnal adventures.
 
